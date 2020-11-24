@@ -1,3 +1,5 @@
+[![SVG Banners](https://svg-banners.vercel.app/api?type=rainbow&text1=🐞%20BugBaazi%20🐛&width=1000&height=300)](https://github.com/0xAnshuman)
+
 # BugBaazi - Tips and Tricks for Bug Hunting from various InfoSec Researcher
 
 ### Targeted Auidence   
